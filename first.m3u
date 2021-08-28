@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", МАТЧ
+http://5.19.218.122:81/udp/235.10.10.15:1234
+#EXTINF:0 type="stream" channelId="-1", МАТЧ! АРЕНА HD
+http://109.226.66.53:4022/udp/232.0.2.41:1234
+#EXTINF:0 type="stream" channelId="-1", МАТЧ! ИГРА HD
+http://178.163.29.33:4022/udp/234.0.0.6:2000
+#EXTINF:0 type="stream" channelId="-1", ПЕРВЫЙ КАНАЛ
+http://37.235.255.163:81/udp/225.50.66.93:1234
+#EXTINF:0 type="stream" channelId="2", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="203", Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="10", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:0 type="stream" channelId="782", Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="16", ТНТ
+http://37.235.217.236:81/udp/225.50.66.59:1234
+#EXTINF:0 type="stream" channelId="6", НТВ
+http://31.41.63.88:8080/udp/239.195.32.7:1234
+#EXTINF:0 type="stream" channelId="-1", Moscow24
+http://79.164.25.75:4022/udp/239.255.2.26:1234
+#EXTINF:0 type="stream" channelId="12", СТС
+http://37.235.174.73:81/udp/225.50.66.53:1234
+#EXTINF:0 type="stream" channelId="12" tvg-shift="4", СТС +4
+http://2.recaster.bolshoe.tv/sts/sts/playlist.m3u8
+#EXTINF:0 type="stream" channelId="819", Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="11", Рен
+http://31.41.63.88:8080/udp/239.195.32.18:1234
+#EXTINF:0 type="stream" channelId="-1", 16 Пятница
+http://37.235.246.221:81/udp/225.50.66.56:1234
+#EXTINF:0 type="stream" channelId="-1", 05 ПЯТЫЙ КАНАЛ
+http://37.235.160.26:81/udp/225.50.66.95:1234
+#EXTINF:0 type="stream" channelId="-1", Че +2 (Сургут)
+http://tvsever.ru:1936/live/ach2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="136", Муз
+http://31.41.63.88:8080/udp/239.195.32.54:1234
+#EXTINF:0 type="stream" channelId="1476", 1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:0 type="stream" channelId="24", ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", КиноЗаказ
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTG HD
+http://109.226.66.53:4022/udp/232.0.1.54:1234
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Звезда
+http://37.235.234.14:81/udp/225.50.66.57:1234
+#EXTINF:0 type="stream" channelId="197", Феникс Плюс Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", A Media II
+http://109.226.66.53:4022/udp/232.0.2.17:1234
+#EXTINF:0 type="stream" channelId="-1", TV1000 Action
+http://176.197.152.182:1234/udp/239.255.42.46:1234
+#EXTINF:0 type="stream" channelId="-1", XXI
+http://178.163.15.115:4022/udp/234.0.0.187:2000
+#EXTINF:0 type="stream" channelId="-1", Дом Кино Премиум
+http://89.178.252.141:4022/udp/233.33.220.162:5050
+#EXTINF:0 type="stream" channelId="-1", ЕВРОКИНО
+http://195.49.168.17:7781/udp/224.10.9.37:1234
+#EXTINF:0 type="stream" channelId="-1", Иллюзион
+http://178.163.58.160:4022/udp/234.0.0.175:2000
+#EXTINF:0 type="stream" channelId="-1", КИНО ТВ HD
+http://37.195.37.135:34040/udp/239.1.17.13:1234
+#EXTINF:0 type="stream" channelId="-1", КИНОПОКАЗ
+http://81.177.208.229:4022/udp/232.0.2.27:1234
+#EXTINF:0 type="stream" channelId="-1", КиноМикс
+http://178.163.72.194:4022/udp/234.0.0.222:2000
+#EXTINF:0 type="stream" channelId="-1", TV 1000
+http://95.27.162.89:8080/udp/233.33.220.195:5050
+#EXTINF:0 type="stream" channelId="-1", TV1000 Action
+http://194.28.153.85:81/udp/238.0.3.9:1234

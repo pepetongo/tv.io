@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg" group-title="peliculas", Los Nuevos Mutantes | REGIOFLIX
+http://ipeteve.com/regioflix171121/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1" group-title="peliculas", SOUL | REGIOFLIX
+http://ipeteve.com/regioflix171121/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:-1 tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg" group-title="peliculas", Toys Of Terror | REGIOFLIX
+http://ipeteve.com/regioflix171121/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1" group-title="peliculas", Wonder Woman 1984 (2020) | REGIOFLIX
+http://ipeteve.com/regioflix171121/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138" group-title="peliculas", El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1" group-title="peliculas", Trolls 2 | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg" group-title="peliculas", El Hoyo | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg" group-title="peliculas", Cindy La Regia | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1" group-title="peliculas", Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg" group-title="peliculas", Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="peliculas", Nosotros Los Nobles | REGIOFLIX
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="peliculas", The Cloverfield Paradox | REGIOFLIX
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
