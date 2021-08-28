@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, Amedia Hit
+http://144.76.199.108:8002/play/a0bi?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Amedia Premium
+http://144.76.199.108:8002/play/a0bk?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Amedia1
+http://185.245.187.150:80/Amedia1/index.m3u8
+#EXTINF:-1, Amedia2
+http://185.245.187.150:80/Amedia2/index.m3u8
+#EXTINF:-1, FILM TV HD
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1, Millenium tv HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1, Millenium TV SD
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1, Paramount
+http://185.245.187.150:80/Paramount/index.m3u8
+#EXTINF:-1, Paramount Comedy
+http://185.245.187.150:80/ParamountComedy/index.m3u8
+#EXTINF:-1, Spike HD
+http://144.76.199.108:8002/play/a0bu?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1, VIP Comedy
+http://94.230.166.144:1234/udp/224.200.234.5:1234
+#EXTINF:-1, VIP Family
+http://188.93.95.67:80/tv5/mpegts
+#EXTINF:-1, VIP Megahit
+http://94.230.166.144:1234/udp/224.200.234.6:1234
+#EXTINF:-1, VIP Premier
+http://94.230.166.144:1234/udp/224.200.234.4:1234
+#EXTINF:-1, ViP Serial HD
+http://144.76.199.108:8002/play/a0bm?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Zigfreed CINEMA
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1, Киноужас HD
+http://144.76.199.108:8002/play/a0ao?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Остросюжетное HD
+http://144.76.199.108:8002/play/a0ez?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Страшное HD
+http://144.76.199.108:8002/play/a0aw?auth=andr7102:aZzB20xc54WPkQ8
+#EXTINF:-1, Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
